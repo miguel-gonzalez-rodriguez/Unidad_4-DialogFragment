@@ -30,7 +30,7 @@ public class Dialogo extends DialogFragment {
                     // Ejecutar al pulsar el botón aceptar
                 }
             })
-            .setNegativeButton("Cancelar", new DialogInterface.OnClickListener() {
+            .setNegativeButton("KJDSALJLASJLAJS", new DialogInterface.OnClickListener() {
                 public void onClick(DialogInterface dialog, int id) {
                     // Ejecutar al pulsar el botón aceptar
                     Dialogo.this.getDialog().cancel();
